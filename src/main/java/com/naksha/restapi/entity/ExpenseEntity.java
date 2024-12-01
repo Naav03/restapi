@@ -1,2 +1,5 @@
-package com.naksha.restapi.entity;public class ExpenseEntity {
+package com.naksha.restapi.entity;
+
+public class ExpenseEntity {
+
 }
